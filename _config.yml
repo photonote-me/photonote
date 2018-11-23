@@ -8,7 +8,7 @@ subtitle: Subtitle
 description: Description
 keywords:
 author: Author
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -81,5 +81,5 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/lamons/photonote-test.git
+  repo: git@github.com:lamons/photonote-test.git
   branch: master
