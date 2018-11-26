@@ -83,3 +83,9 @@ deploy:
   type: git
   repo: git@github.com:lamons/photonote.git
   branch: master
+
+# Plugins
+feed:
+  type: rss2
+  path: feed.xml
+  limit: 0
