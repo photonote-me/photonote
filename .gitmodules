@@ -3,4 +3,4 @@
 	url = https://github.com/lamons/hexo-theme-cactus.git
 [submodule "themes/Nayo"]
 	path = themes/Nayo
-	url = https://github.com/Lemonreds/hexo-theme-nayo.git
+	url = git@github.com:lamons/hexo-theme-nayo.git
