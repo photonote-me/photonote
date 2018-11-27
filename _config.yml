@@ -7,7 +7,7 @@ title: 摄影学习笔记
 subtitle: Subtitle
 description: Description
 keywords:
-author: Author
+author:
 language: zh-CN
 timezone:
 
@@ -73,9 +73,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cactus
-theme_config:
-    colorscheme: classic
+theme: Nayo
+# theme_config:
+#     colorscheme: classic
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
