@@ -1,8 +1,8 @@
 ---
 title: 摄影学习笔记：总  目  录
 date: 2018/11/28
+hide excerpt: true
 ---
-.<!--more-->
 
 
 ### 中国
