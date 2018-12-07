@@ -1,6 +1,5 @@
 ---
 title: about
-date: 2018-11-28 21:17:00
 layout: about
 ---
 
@@ -25,3 +24,4 @@ https://weibo.com/u/6289263372
 
 邮箱：
 photonote.me@gmail.com
+

@@ -1,10 +1,10 @@
 ---
 title: 摄影学习笔记：目录
 date: 2018/12/7
-hide excerpt: true
+hide_excerpt: true
 ---
-
-
+.
+<!-- more -->
 ### 中国
 
 
@@ -41,6 +41,3 @@ xxxxx
 ### 日本
 
 xxxxx
-
-
-
