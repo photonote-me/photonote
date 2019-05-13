@@ -89,3 +89,7 @@ feed:
   type: rss2
   path: feed.xml
   limit: 0
+
+search:
+  path: search.xml
+  field: post
