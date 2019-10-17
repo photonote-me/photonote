@@ -15,7 +15,8 @@ jobs:
 
     - name: update submodules
       uses: srt32/git-actions@v0.0.3
-      args: git submodule update --init --recursive
+      run: |
+        git submodule update --init --recursive
 
     - name: Setup Hexo env
       env:
