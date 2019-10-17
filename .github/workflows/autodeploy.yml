@@ -13,6 +13,10 @@ jobs:
       with:
         node-version: "10.x"
 
+    - name: update submodules
+      uses: srt32/git-actions@v0.0.3
+      args: git submodule update --init --recursive
+
     - name: Setup Hexo env
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
@@ -24,7 +28,7 @@ jobs:
         git config --global user.name "lamons"
         git config --global user.email "lamons.n@gmail.com"
         npm i -g hexo-cli
-        npm i -g package.json
+        npm i
 
     - name: Deploy
       run: |
