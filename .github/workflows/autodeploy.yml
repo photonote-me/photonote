@@ -14,7 +14,6 @@ jobs:
         node-version: "10.x"
 
     - name: update submodules
-      uses: srt32/git-actions@v0.0.3
       run: |
         git submodule update --init --recursive
 
