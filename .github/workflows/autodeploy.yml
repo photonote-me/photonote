@@ -1,9 +1,6 @@
 name: HEXO AUTO DEPLOY
 
-on:
-  push：
-    branches:
-    - gh-pages
+on: push
 
 jobs:
   build:
