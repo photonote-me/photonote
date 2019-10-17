@@ -24,7 +24,7 @@ jobs:
         git config --global user.name "lamons"
         git config --global user.email "lamons.n@gmail.com"
         npm i -g hexo-cli
-        npm i
+        npm i -g package.json
 
     - name: Deploy
       run: |
