@@ -1,0 +1,3 @@
+[submodule "Nayo"]
+	path = themes/Nayo
+	url = https://github.com/lamons/hexo-theme-nayo

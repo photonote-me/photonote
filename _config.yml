@@ -81,7 +81,7 @@ theme: Nayo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:lamons/photonote.git
+  repo: git@github.com:photonote-me/photonote.git
   branch: master
 
 # Plugins
